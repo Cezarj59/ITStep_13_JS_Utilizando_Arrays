@@ -12,16 +12,16 @@
 <li>Formularios</li>
 </ul>
 
-<h4>Demo cadastro.</h4>
+<h3>Demo cadastro.</h3>
 
 ![Screenshot from 2022-09-10 20-46-52](https://user-images.githubusercontent.com/78119622/189505474-5168a9ec-b153-4487-a669-5239a23451a3.png)
 
 
-<h4>Demo sorteio.</h4>
+<h3>Demo sorteio.</h3>
 
 ![Screenshot from 2022-09-10 20-47-20](https://user-images.githubusercontent.com/78119622/189505471-18b77e00-d125-43e4-a0e1-4d339090ede4.png)
 
-<h4>Demo comleta.</h4>
+<h3>Demo completa.</h3>
 
 Link: https://cezarj59.github.io/ITStep_13_JS_Utilizando_Arrays/
 
